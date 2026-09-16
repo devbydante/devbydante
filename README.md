@@ -76,6 +76,10 @@ Plataforma web orientada a la **búsqueda y reencuentro de mascotas perdidas** m
 - 🔔 Sistema de alertas
 - 🔐 Autenticación mediante JWT
 
+#### Tecnologías
+
+**Angular · TypeScript · Node.js · Express · PostgreSQL · JWT · REST API**
+
 🔗 **[Ver repositorio](https://github.com/devbydante/gohuella)**  
 🌐 **[Ver demo de GoHuella](https://www.gohuella.app/)**
 
